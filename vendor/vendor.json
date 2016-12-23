@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "3y0uWpEwb4be+9ipBbi/aEXO0T4=",
+			"path": "github.com/aws/aws-sdk-go",
+			"revision": "0cec6f30ed2e73632df90a507b537cb988436171",
+			"revisionTime": "2016-12-13T23:41:24Z"
+		},
+		{
+			"checksumSHA1": "yUc84k7cfnRi9AlPFuRo77Y18Og=",
+			"path": "github.com/golang/glog",
+			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+			"revisionTime": "2016-01-25T20:49:56Z"
+		}
+	],
+	"rootPath": "github.com/Oktasuke/HomeAlone"
+}
